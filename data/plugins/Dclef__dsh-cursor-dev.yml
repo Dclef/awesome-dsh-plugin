@@ -1,0 +1,6 @@
+url: https://github.com/Dclef/dsh-cursor-dev
+name: Dclef/dsh-cursor-dev
+category: dev
+description:
+  en: Runs the Cursor CLI as a child coding agent with a per-job model choice, conversations that survive DSH restarts, the child's step timeline and real file diffs, and a Cursor usage page.
+  zh: 把 Cursor CLI 当作子编码智能体：可按任务选模型、会话在 DSH 重启后仍能续聊、返回逐步工具时间线与真实文件 diff，并提供 Cursor 用量页面。
